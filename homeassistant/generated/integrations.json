@@ -4743,6 +4743,12 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
+    "project_nexus": {
+      "name": "Project Nexus",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "proliphix": {
       "name": "Proliphix",
       "integration_type": "hub",

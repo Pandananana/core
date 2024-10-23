@@ -456,6 +456,7 @@ FLOWS = {
         "private_ble_device",
         "profiler",
         "progettihwsw",
+        "project_nexus",
         "prosegur",
         "proximity",
         "prusalink",

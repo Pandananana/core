@@ -249,6 +249,9 @@ aiohasupervisor==0.2.0b0
 # homeassistant.components.homekit_controller
 aiohomekit==3.2.3
 
+# homeassistant.components.project_nexus
+aiohttp==3.10.10
+
 # homeassistant.components.hue
 aiohue==4.7.3
 
